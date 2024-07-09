@@ -1,12 +1,10 @@
-<h3 align="center">
-Hi there, I'm <a href="https://livehighvu06.github.io/cyxdevlife/" target="_blank" rel="noreferrer">Eddie Chen</a> 👋
-</h3>
+<h1 align="left">
+Hi , I'm <a href="https://livehighvu06.github.io/cyxdevlife/" target="_blank" rel="noreferrer">Eddie Chen</a> 👋
+</h1>
 
-<h2 align="center">
 I'm a Front-end Web Developer 💻
-</h2> 
 
-我是陳義賢，學生時期很喜歡玩無名小站
+我是陳義賢，學生時期很喜歡玩無名小站<br />
 常常會自己動手改樣式(搞破壞)，看到網站變成與眾不同的樣子很有成就感
 
 ## 💼 Technical Skills
